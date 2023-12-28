@@ -1,0 +1,47 @@
+{
+    "name": "efriend",
+    "description": "EFriend Service",
+    "version": "0.0.1",
+    "keywords": [
+        "EFriendService",
+        "Node",
+        "Service",
+        "Stock",
+        "Trading"
+    ],
+    "homepage": "https://github.com/pnuskgh/EFriendService",
+    "bugs": {
+        "url": "https://github.com/pnuskgh/EFriendService/issues",
+        "email": "pnuskgh@gmail.com"
+    },
+    "private": false,
+    "author": {
+        "name": "gye hyun james kim",
+        "email": "pnuskgh@gmail.com",
+        "url": "https://www.jopenbusiness.com/"
+    },
+    "contributors": [
+        {
+            "name": "gye hyun james kim",
+            "email": "pnuskgh@gmail.com",
+            "url": "https://www.obcon.biz/"
+        }
+    ],
+    "license": "GNU General Public License v3.0 (https://www.gnu.org/licenses/gpl-3.0.en.html)",
+    "main": "index.js",
+    "man": [
+        "./README.md"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pnuskgh/EFriendService.git"
+    },
+    "type": "module",
+    "dependencies": {
+        "efriend": "^0.0.47"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "build": "tsc  --project  tsconfig.json"
+    }
+}
