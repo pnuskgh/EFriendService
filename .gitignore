@@ -1,21 +1,8 @@
 .gulp-scss-cache/
 .nyc_output/
 __pycache__/
-build/
-cache/
-coverage/
-dist/
-install/
-lib/
-library/
-logs/
+
 node_modules/
-out/
-output/
-prisma/files/
-prisma/migrations/
-sessions/
-save/
 
 .babelrc
 .DS_Store
@@ -28,12 +15,8 @@ save/
 ~*
 zz*
 
-book.md
-config_*
-ecosystem.config.js
-gulpfile.js
-main_bundle.js
-nohup.out
+config_*.js
+gitMerge.ps1
 package-lock.json
-pnpm-lock.yaml
-webpack*
+ProjectInfo.md
+version.json
