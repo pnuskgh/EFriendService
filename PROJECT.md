@@ -11,7 +11,6 @@
   - 렛플 프로젝트: [증권 투자 서비스 구현](https://letspl.me/project/1336)
 - 카카오톡: [블루스톤 오픈채팅방](https://open.kakao.com/o/gZKGWq0f)
 - [증권 투자 서비스 홈페이지](https://efriendexpert.com/)
-- [블루스톤 홈페이지](https://www.bluestones.biz/)
 
 ​     
 
@@ -33,8 +32,6 @@
   - [EFriendExpert 1:1 채팅방](https://open.kakao.com/o/snBRsqsf)
 
 - [증권 투자 서비스 홈페이지](https://efriendexpert.com/)
-
-- [블루스톤 홈페이지](https://www.bluestones.biz/)
 
   
 
