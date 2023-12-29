@@ -4,15 +4,20 @@
 
 ### 관련 사이트
 
-  
-
-- GitHub: [EFriendService](https://github.com/pnuskgh/EFriendService)
-  - [프로젝트 개요](https://github.com/pnuskgh/EFriendService/blob/main/PROJECT.md)
-  - 렛플 프로젝트: [증권 투자 서비스 구현](https://letspl.me/project/1336)
-- 카카오톡: [블루스톤 오픈채팅방](https://open.kakao.com/o/gZKGWq0f)
-- [증권 투자 서비스 홈페이지](https://efriendexpert.com/)
+- [efriend 홈페이지](https://efriendexpert.com/)
+- EFriend Service
+  - [EFriendService GitHub](https://github.com/pnuskgh/EFriendService)
+    - [프로젝트 개요](https://github.com/pnuskgh/EFriendService/blob/main/PROJECT.md)
+- 카카오톡
+  - [블루스톤 오픈채팅방](https://open.kakao.com/o/gZKGWq0f)
+- 렛플: [한국투자증권 Node.js 라이브러리](https://letspl.me/project/900)
+- 증권사 REST API
+  - [한국투자증권](https://apiportal.koreainvestment.com/apiservice/)
+  - [이베스트투자증권](https://openapi.ebestsec.co.kr/apiservice) : 미지원
 
 ​     
+
+  
 
 ### 시작 동기
 
@@ -20,18 +25,26 @@
 
 한국투자증권에서 제공하는 REST API를 사용하여 node에서 사용할 수 있는 라이브러리를 만들어 배포 하였습니다.
 
-- GitHub: [EFriendExpert](https://github.com/pnuskgh/EFriendExpert)
-  - [프로젝트 개요](https://github.com/pnuskgh/EFriendExpert/blob/main/PROJECT.md)
-  - [한국투자증권 KIS Developers](https://apiportal.koreainvestment.com/apiservice/oauth2)
-  - [efriend NPM 라이브러리](https://www.npmjs.com/package/efriend)
-  - 렛플 프로젝트: [한국투자증권 Node.js 라이브러리](https://letspl.me/project/900)
+- [efriend 홈페이지](https://efriendexpert.com/)
   
+- efriend 라이브러리
+
+  - [efriend NPM 라이브러리](https://www.npmjs.com/package/efriend)
+  - [EFriendExpert GitHub](https://github.com/pnuskgh/EFriendExpert)
+    - [프로젝트 개요](https://github.com/pnuskgh/EFriendExpert/blob/main/PROJECT.md)
+  - [한국투자증권 KIS Developers](https://apiportal.koreainvestment.com/apiservice/oauth2)
+
 - 카카오톡
 
   - [EFriendExpert 오픈 채팅방](https://open.kakao.com/o/gZbStqsf)
   - [EFriendExpert 1:1 채팅방](https://open.kakao.com/o/snBRsqsf)
 
-- [증권 투자 서비스 홈페이지](https://efriendexpert.com/)
+- 렛플: [증권 투자 서비스](https://letspl.me/project/1336)
+
+- 증권사 REST API
+
+  - [한국투자증권](https://apiportal.koreainvestment.com/apiservice/)
+  - [이베스트투자증권](https://openapi.ebestsec.co.kr/apiservice) : 미지원
 
   
 
@@ -106,7 +119,7 @@
 - 개발 언어 : [TypeScript](https://www.typescriptlang.org/)와 [JavaScript](https://developer.mozilla.org/ko/docs/Web/JavaScript)
   
   - [efriend 라이브러리](https://www.npmjs.com/package/efriend) 사용
-- 테스트 : [Mocha](https://mochajs.org/) with [Chai](https://www.chaijs.com/), [Sinon](https://sinonjs.org/)
+- 테스트 : [Mocha](https://mochajs.org/) with [Chai](https://www.chaijs.com/), [Sinon](https://sinonjs.org/)
   - 후보
     - [Mocha](https://mochajs.org/) : Test Framework
     - [Chai](https://www.chaijs.com/) : Assertion library
