@@ -1,6 +1,4 @@
-## 증권 투자 서비스 
-
-  
+## 증권 투자 서비스
 
 - 카카오톡 : 공지 등 알림과 일정 조율
   - [블루스톤 오픈채팅방](https://open.kakao.com/o/gZKGWq0f)
@@ -10,12 +8,51 @@
 - [증권 투자 서비스 홈페이지](https://efriendexpert.com/)
 - [블루스톤 홈페이지](https://www.bluestones.biz/)
 
-  
+   
+
+### Tools
+
+- GitHub
+  - Project Management
+    - Projects
+    - Discussions
+    - 대안 : Asana, Linear, Trello
+  - Source Management
+    - Code
+    - Pull requests
+  - Issue Management
+    - Issues
+    - 대안 : Jira
+  - Workflow
+    - Actions
+    - Webhooks
+    - 대안 : n8n, Chef, Jenkins
+  - Knowledge Management
+    - Wiki
+    - Markdown
+    - 대안 : Notion, Miro, ClickUp, Google Docs
+  - Homepage
+    - GitHub Pages
+- Discord
+  - Chatting
+    - 대안 : KakaoTalk, Slack
+  - Meeting
+    - 대안 : Zoom, Microsoft Teams
+  - Notification
+    - 대안 : Telegram
+- Figma
+  - Design Prototype
+  - Wireframe
+    - 대안 : Sketch, ClickUp
+- Canva
+  - Design
+
+  
 
 ### 진행 방식
 
 - Zoom을 사용하여 1주일에 1회 정기적으로 회의 합니다.
-  - [블루스톤 오픈채팅방](https://open.kakao.com/o/gZKGWq0f)에 zoom 링크를 공유 합니다.
+  - [블루스톤 오픈채팅방](https://open.kakao.com/o/gZKGWq0f)에 zoom 링크를 공유 합니다.
   - 각자가 가진 아이디어를 공유 하거나 주제를 정하여 발표 하고 다음 1주일간 진행할 사항을 정하여 역할을 분담 합니다.
 
   
@@ -36,4 +73,4 @@
 
 ### History
 
-  
+  
